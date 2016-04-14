@@ -1,0 +1,32 @@
+
+h1,h2{ 
+	color:purple;
+	text-align:center;
+	font-family:"Times New Roman", Times, serif;
+	font-size:210%;
+}
+.maroon{
+	font-family:"Times New Roman",Times,serif;
+	font-size: 97.5%;
+	color: maroon;
+}
+#navy{ 
+	color:navy;
+	text-align:center;
+	font-size:150%;
+}
+#top{ 
+	font-style:bold;
+	padding: 80px;	
+}
+#bottom{
+	padding-top:10px;
+	text-align:center;
+}
+.title{
+	color:#1e3e4a;
+	font-size:130%;
+}
+a { 
+	text-decoration: none;
+}
