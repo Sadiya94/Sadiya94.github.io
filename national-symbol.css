@@ -1,0 +1,45 @@
+body {
+	/*background-color: #ff3333;*/
+	/*color: #f2f2f2;*/
+	font-family: Arial;
+	background-image: url(http://res.freestockphotos.biz/pictures/16/16595-illustration-of-abstract-green-wallpaper-background-pv.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 0;
+	
+}
+h1{ 
+	color:#00004d;
+	text-align:center;
+	font-family:"Times New Roman", Times, serif;
+	font-size:210%;
+}
+a{
+	color:#00004d;
+}
+.na{
+	color: #4d0000;
+	font-size: 120%;
+}
+
+table, th, td {
+    border: 0;
+}
+.title{
+	color: #cca300;
+}
+table{
+	margin-left: 20%;
+	margin-right: 10%;
+}
+
+p{
+	color: #cca300;
+}
+footer {
+	background-color: none;
+	text-align: center;
+	float: center;
+
+}
