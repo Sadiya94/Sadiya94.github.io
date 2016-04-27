@@ -59,13 +59,15 @@ li a:hover {
 	color:#fff;
 }
 main p{
-	background-color: none;
-	width: 75%;
-	padding: 5px;
+	background-color: #cc7a00;
+	width: 30%;
+	padding: 10px;
+	border-radius: 10px;
+	border-color:  #1a0f00;
 
 	text-align: center;
 	background-position: center;
-	font-color:#00004d;
+	color:#00004d;
 	}
 
 footer nav{
